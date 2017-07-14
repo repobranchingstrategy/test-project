@@ -6,7 +6,7 @@
 	<artifactId>xml2json</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule</packaging>
-	<name>Mule xml2json Application</name>
+	<name>Mule xml2json asdfasdfsaf Application</name>
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
