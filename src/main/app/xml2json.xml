@@ -18,6 +18,6 @@ http://www.mulesoft.org/schema/mule/json http://www.mulesoft.org/schema/mule/jso
         <mulexml:jaxb-xml-to-object-transformer jaxbContext-ref="JAXB_Context" doc:name="XML to JAXB Object" ignoreBadInput="true"/>
         <json:object-to-json-transformer doc:name="Object to JSON"/>
 
-        <logger level="INFO" doc:name="Logger" message="#[message.payloadAs(java.lang.String)]"/>
+        <logger level="INFO" doc:name="Logger f;ljsa;lfjfsa" message="#[message.payloadAs(java.lang.String)]"/>
     </flow>
 </mule>
